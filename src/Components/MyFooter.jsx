@@ -24,3 +24,5 @@ function MyFooter({ clients }) {
 }
 
 export default MyFooter;
+//questa è invece una priva di modifica sul branch newTest
+//
