@@ -26,10 +26,10 @@ body {
 }
 
 h1 {
-  text-align: center;
+  text-align: start;
   background-color: #f4a226;
   font-family: "Monoton";
-  font-size: 8rem;
+  font-size: 10rem;
   text-transform: uppercase;
   font-weight: 400;
   word-spacing: 30px;
